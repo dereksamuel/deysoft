@@ -1,0 +1,15 @@
+
+body{
+    font-family: 'Lobster', cursive;
+    background: #FAF9D5;
+}
+TITULO{
+    font-weight: 100;
+    font-size: 12px;
+}
+div{
+    margin:80px 0;
+    display: block;
+    text-align: right;
+    border: 50%;
+}
